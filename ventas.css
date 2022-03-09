@@ -1,0 +1,508 @@
+body{
+    margin: 0px;
+
+}
+.first{
+    background-color: rgb(8, 8, 8);
+    display: flex;
+    margin: 0px;
+    justify-content: space-evenly;
+ 
+}
+.Bbk{
+    display: flex;
+    flex-wrap: wrap;
+    
+
+
+}
+.first a{
+    color: white;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    margin: 1px;
+    padding-right: 68px;
+    text-decoration: none;
+}
+.backHR{
+    float: right;
+}
+.blue{
+    background-color: rgb(104, 12, 12);
+}
+.blue {
+    display: ;
+    justify-content: right;
+    padding-right: 120px;
+}
+input{
+    margin: 4px;
+    height: 35px;
+    border-radius: 5px;
+
+}
+
+.search{margin-bottom: 12px;
+    margin-top: 45px;
+    border-color: rgba(127, 255, 212, 0.027);
+    width: 270px;
+
+}
+.button{
+    margin-top: 45px;
+    border-color: rgba(10, 150, 103, 0);
+    background-color: rgb(160, 45, 45);
+    color: white;
+    font-weight: 400;
+    
+}
+.button:hover{
+    transition: all.3s;
+    background-color: rgb(224, 106, 106);
+}
+.carrito{
+    background-color: rgb(255, 255, 255);
+    margin-top: 45px;
+    border-color: rgba(127, 255, 212, 0.027);
+  
+}
+.carrito:hover{
+    transition: all.3s;
+    background-color: rgb(185, 185, 185);
+}
+.count{
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 54px;
+    padding-left: 12px;
+}
+.count:hover{
+    transition: all.3s;
+    color: rgb(199, 199, 199);
+
+}
+.bann img{
+    
+    padding-right: 900px;
+    float: left;
+   
+
+}
+.blue{
+    display: flex;
+    flex-direction: row;
+    
+}
+img .bann{
+    justify-content: left;
+}
+
+.categorias-grid{
+    padding-top: 41px;
+    float: left;
+    cursor: pointer;
+    flex-flow: column ;
+    display: grid;
+    margin: auto; 
+    width:15% ;
+    grid-template-columns: repeat(1, 1fr)  ;
+    grid-gap:15px;
+    box-shadow: 16px black;
+    padding-bottom: 150px;
+}
+.left{
+   
+    border-radius: 16px;
+    background-color: rgba(255, 255, 255, 0.068);
+    display: grid;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 16px;
+    box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0);
+
+    
+}
+.items{
+    cursor: pointer;
+    justify-content: space-around;
+    border-radius: 9px;
+    background-color: rgb(243, 243, 243);
+    text-align: center;
+    box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.068);
+}
+.items:hover{
+    transition: all.3s;
+    background-color: rgb(240, 190, 190);
+}
+.items h4{
+    font-weight: 540;
+}
+
+.hero1{
+    display: flex;
+    justify-content: center;
+  margin: 25px;
+  padding: 20px;
+ 
+}
+.hov{
+    margin-left: 310px;
+    margin-right: 15px;
+    box-shadow:
+    inset 0px 0px 1px rgba(0,0,1,0.0),
+          0px 1px 12px rgba(7, 0, 0, 0.116);
+}
+.hov h3{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: 350;
+    color: rgb(71, 71, 71);
+    background-color: rgb(255, 255, 255);
+}
+.blog{
+    justify-content:center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    display: grid;
+    margin:  auto; 
+    width:50px ;
+    grid-template-columns: repeat(4, 1fr)  ;
+    grid-gap:12px;
+    border-color: black;
+   
+
+}
+.pro-grid{
+    margin: 41px;
+    padding-top: 12px;
+    box-shadow:
+    inset 0px 1px 1px rgba(245, 245, 245, 0.1),
+          1px 1px 21px rgba(0, 0, 0, 0.116);
+    border-radius: 6px;
+    background-color: rgb(231, 231, 231);
+}
+
+.pro-grid:hover{
+    transition: all.3s;
+    background-color: white;
+    
+}
+.blog2{
+    justify-content:center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    display: grid;
+    margin:  auto; 
+    width:50px ;
+    grid-template-columns: repeat(4, 1fr)  ;
+    grid-gap:12px;
+    border-color: black;
+   
+
+}
+.pro-grid2{
+    margin: 41px;
+    padding-top: 12px;
+    box-shadow:
+    inset 0px 1px 1px rgba(245, 245, 245, 0.1),
+          1px 1px 21px rgba(0, 0, 0, 0.116);
+    border-radius: 6px;
+    background-color: rgb(231, 231, 231);
+}
+
+.pro-grid2:hover{
+    transition: all.3s;
+    background-color: white;
+    
+}
+.ofertas1{
+    display: flex;
+    background-color: rgb(224, 224, 224);
+}
+.fleximg{
+    border-radius: 12px;
+    margin: 40px;
+    background-color: rgb(247, 247, 247);
+
+}
+.texthero2{
+    margin: 6%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.maintxt{
+    font-size: 41px;
+}
+.list{
+    margin: 12px;
+}
+.list li{
+    margin: 6px;
+    padding: 6px;
+}
+.vermas{
+    display: flex;
+    justify-content: center;
+    margin: 12px;
+    margin-left: 150px;
+    margin-top: 15px;
+    height: 60px;
+    width: 150px;
+    border-color: rgba(255, 235, 205, 0);
+    font-size: 21px;
+    background-color: rgb(182, 54, 54);
+    color:white;
+}
+.vermas:hover{
+    transition: all.2s;
+    background-color: rgb(233, 144, 144);
+    cursor: pointer;
+}
+
+.enla{
+    padding-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+}
+.cz{
+
+    margin: 6px;
+    padding: 3px;
+    opacity: 45%;
+}
+footer{
+    background-color: rgb(19, 19, 19);
+}
+.fininf a{
+   padding-right: 2px;
+    text-decoration: none;
+    color: rgb(187, 187, 187);
+}
+.fininf{
+ 
+    display: grid;
+    grid-template-columns: repeat(9, 1fr)  ;
+    justify-content: center;
+}
+.fininf a:hover{
+    transition: all.3s;
+    color: white;
+}
+/*media hereeeeeeeeeeeeeeeeeeeeeeeeeee*/
+/*media hereeeeeeeeeeeeeeeeeeeeeeeeeee*/
+/*media hereeeeeeeeeeeeeeeeeeeeeeeeeee*/
+/*media hereeeeeeeeeeeeeeeeeeeeeeeeeee*/
+@media screen and (min-width: 200px) and (max-width: 800px) {
+    .first{
+        background-color: rgb(22, 18, 18);
+        display:inline-flex;
+        padding-left: 110px;
+        padding-right: 160px;
+        margin: auto;
+     
+    }
+    
+}
+
+
+@media screen and (min-width: 200px) and (max-width: 800px){
+    .Bbk{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+}
+@media screen and (min-width: 200px) and (max-width: 800px){
+    .first a{
+    padding: 17px;  
+    }
+    
+}
+@media screen and (min-width: 200px) and (max-width: 800px){
+.bann{
+    position: absolute;
+    display: flex;
+    width: 180px;
+    justify-items: flex-start;
+    left: 4%;
+}
+}
+@media screen and (min-width: 200px) and (max-width: 800px){
+    .blue{
+       
+        padding: 0px;
+        margin: auto;
+        justify-content: space;
+        padding-right: 41px;
+    }
+}
+@media screen and (min-width: 200px) and (max-width: 800px){
+    .search{
+        position: absolute;
+        left: 45%;
+        width: 150px;
+    }
+}
+
+@media screen and (min-width: 200px) and (max-width: 800px) {
+    .items{
+   
+        width: 160px;
+        flex: 2%;
+        border-radius: 6px ;
+    }
+
+}
+
+
+@media screen and (min-width: 200px) and (max-width: 800px){
+     .categorias-grid{
+     justify-items: left;
+    }
+}
+
+@media screen and (min-width: 200px) and (max-width: 800px){
+    .left{
+        background-color: rgb(218, 218, 218);
+        position: absolute;
+        right: 10%;
+        justify-items: left;
+        margin:21px;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr)  ;
+        
+   
+}
+@media screen and (min-width: 200px) and (max-width: 800px){
+    aside{
+        float: left;
+    }
+}
+@media screen and (min-width: 200px) and (max-width: 800px){
+    .pro-grid{
+        float: left;
+    }
+}
+@media screen and (min-width: 200px) and (max-width: 800px){
+    .hero1{
+        position: absolute;
+        right: 28%;
+        width:120px;
+        height: 175px;
+        margin: 25px;
+        padding-left: 200px;
+      
+      
+    }
+}
+@media screen and (min-width: 200px) and (max-width: 800px){
+    .blog{
+        position: a;
+        display: grid;
+        margin: 120px;
+        padding-left: 230px;
+        grid-template-columns: repeat(2, 1fr)  ;
+        grid-gap:15px;
+   
+    }
+}
+@media screen and (min-width: 200px) and (max-width: 800px){
+    .pro-grid{
+
+        display: flex;
+        flex-direction: column;
+        padding:1%;
+        float: left;
+
+
+    }
+}
+@media screen and (min-width: 200px) and (max-width: 800px){
+ .hero1{
+       padding-left: 120px;
+        display: flex;
+        justify-content: center;
+        position: absolute;
+        width: 120px;
+        top: 80%;
+        
+      
+        height: 120px;
+     
+    }
+}
+@media screen and (min-width: 200px) and (max-width: 800px){
+    .blog{
+        position: absolute;
+        top: 132%;
+        padding-right: 1px;
+    }
+}
+@media screen and (min-width: 200px) and (max-width: 800px){
+    .ofertas1{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        position: absolute;
+        top: 270%;
+        padding:auto;
+      
+    }
+}
+@media screen and (min-width: 200px) and (max-width: 800px){
+    .off{
+        height: 250px;
+    }
+}
+@media screen and (min-width: 200px) and (max-width: 800px){
+    .maintxt{
+        font-size: 31px;
+    
+    }
+}
+@media screen and (min-width: 200px) and (max-width: 800px){
+    .setxt{
+        font-size: 12px;
+    }
+}
+@media screen and (min-width: 200px) and (max-width: 800px){
+    .hov{
+        visibility: hidden;
+    }
+}
+
+@media screen and (min-width: 200px) and (max-width: 800px){
+    .blog2{
+        position: a;
+        display: grid;
+        margin: 120px;
+        padding-left: 230px;
+        grid-template-columns: repeat(2, 1fr)  ;
+        grid-gap:15px;
+        visibility: hidden;
+    }
+}
+@media screen and (min-width: 200px) and (max-width: 800px){
+    .pro-grid2{
+        visibility: hidden;
+        display: flex;
+        flex-direction: column;
+        padding:1%;
+        float: left;
+        justify-content: flex-end;
+
+
+    }
+}
+@media screen and (min-width: 200px) and (max-width: 800px){
+    .fininf{
+        text-align: left;
+        padding-right: 101px;
+        background-color: black;
+        display: grid;
+        position: absolute;
+        top: 360% ;
+        padding-left: 130px;
+        grid-template-columns: repeat(3, 1fr)  ;
+    }
+}
