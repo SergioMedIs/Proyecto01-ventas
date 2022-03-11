@@ -182,6 +182,14 @@ img .bann{
     border-radius: 6px;
     background-color: rgb(231, 231, 231);
 }
+.pro-grid img{
+    border-radius: 6px;
+    margin: 8px;
+}
+.pro-grid2 img{
+    border-radius: 6px;
+    margin: 8px;
+}
 
 .pro-grid:hover{
     transition: all.3s;
