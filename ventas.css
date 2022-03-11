@@ -186,6 +186,7 @@ img .bann{
 .pro-grid:hover{
     transition: all.3s;
     background-color: white;
+    transform: scale(1.15);
     
 }
 .blog2{
@@ -214,6 +215,7 @@ img .bann{
 .pro-grid2:hover{
     transition: all.3s;
     background-color: white;
+    transform: scale(1.15);
     
 }
 .ofertas1{
