@@ -298,6 +298,43 @@ footer{
     transition: all.3s;
     color: white;
 }
+.registro{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: rgb(107, 53, 53);
+}
+.name{
+    margin-left:0px;
+    margin-top: 21px;
+
+}
+.name h3{
+    font-weight: 200;
+}
+.section{
+    margin: 6px;
+    margin-left: 120px;
+}
+.section input{
+    margin-bottom: 12px;
+    
+}
+ .correo{
+     padding-left: ;
+    width:320px ;
+    text-align: center;
+    font-size: 21px;
+    color: gray;  
+}
+.enviar{
+    background-color: brown;
+    border-color: rgba(165, 42, 42, 0);
+    width: 120px;
+    height: 40px;
+    color: white;
+    font-weight: 600;
+
+}
 /*media hereeeeeeeeeeeeeeeeeeeeeeeeeee*/
 /*media hereeeeeeeeeeeeeeeeeeeeeeeeeee*/
 /*media hereeeeeeeeeeeeeeeeeeeeeeeeeee*/
@@ -507,11 +544,18 @@ footer{
 @media screen and (min-width: 200px) and (max-width: 800px){
     .fininf{
         text-align: left;
-        padding-right: 101px;
+        padding-right: 129px;
         background-color: black;
         display: grid;
         position: absolute;
-        top: 370% ;
+        top: 390% ;
         padding-left: 130px;
         grid-template-columns: repeat(3, 1fr)  ;
+    }
+    @media screen and (min-width: 200px) and (max-width: 800px){
+        .registro{
+            position: absolute;
+            top: 376%;
+            padding-right: 25px;
+        }
     }
