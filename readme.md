@@ -11,4 +11,5 @@ mas articulos recomendados!!! tenemos variedad y precios accesibles
 ![image](https://user-images.githubusercontent.com/98350223/159140617-774cb8b8-dd8c-483f-a8b2-01138c293768.png)
 no olvides registrarte para ser el primero en saber nuestas promociones 
 ![image](https://user-images.githubusercontent.com/98350223/159140629-82f435a9-dd7f-4ed1-a06e-69d410f3bef0.png)
-![image](https://user-images.githubusercontent.com/98350223/159140878-d9a3c202-1ce6-4d8d-885e-a43622893be2.png)
+CYBER ZILLA
+![image](https://user-images.githubusercontent.com/98350223/159140898-f96cd085-d067-45b8-8656-c8c88f36db2e.png)
