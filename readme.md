@@ -7,7 +7,8 @@ articulos recomendados que podrian interesarte
 ![image](https://user-images.githubusercontent.com/98350223/159140572-0635015f-788d-4121-87a8-7d1a3ad42a44.png)
 podria interesarte! un articulo premium digno de tu escritorio gamer
 ![image](https://user-images.githubusercontent.com/98350223/159140600-42f9ef9f-d1d8-4b74-9c7a-b9e0a2e5ac00.png)
-mas articulos recomendados, tenemos variedad y precios accesibles
+mas articulos recomendados!!! tenemos variedad y precios accesibles
 ![image](https://user-images.githubusercontent.com/98350223/159140617-774cb8b8-dd8c-483f-a8b2-01138c293768.png)
 no olvides registrarte para ser el primero en saber nuestas promociones 
 ![image](https://user-images.githubusercontent.com/98350223/159140629-82f435a9-dd7f-4ed1-a06e-69d410f3bef0.png)
+![image](https://user-images.githubusercontent.com/98350223/159140878-d9a3c202-1ce6-4d8d-885e-a43622893be2.png)
